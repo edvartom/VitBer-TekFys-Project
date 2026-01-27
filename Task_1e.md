@@ -1,1 +1,0 @@
-The figure shows a plot of the funtion $g(x) = x + \sin(x) + \cos(x)$ alongside the root that the secant root finder found at $z_0 = - 0.46$. We can confirm that $z_0$ is indeed a root by finding $g(z_0)$. In this case, $g(z_0) = -8.45 \times 10^{-9} \approx 0$. 

@@ -1,3 +1,0 @@
-To determine whether the matrix_to_vector function transforms $2\times2$ matrices into $8$-component vectors, and that the vector_to_matrix function does the oppoiste, we do as follows. 
-
-First, we create an arbitrary complext $2\times2$ matrix $\bold{M}$. Then, $\bold{M}$ is fed into matrix_to_vector to obtain a vector $v$. This vector is fed into vector_to_matrix. The output will be a new $2\times2$ matrix, $\bold{N}$. To confirm that the code simply convert between $2\times2$ matrices and $8$-complment vectors, we check that $\bold{M = N}$. If this is true, the code returns 'True'.
