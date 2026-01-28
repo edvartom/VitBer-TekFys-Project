@@ -12,4 +12,4 @@ Zala Vidmar (https://github.com/ZalaVidmar)
 
 Wilma Røise Huseby (https://github.com/Meeumi)
 
-And one other student
+Michelle Tat
