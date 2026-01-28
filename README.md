@@ -12,4 +12,4 @@ Zala Vidmar (https://github.com/ZalaVidmar)
 
 Wilma Røise Huseby (https://github.com/Meeumi)
 
-Michelle Tat
+Michelle Tat (https://github.com/CMoEDII)
